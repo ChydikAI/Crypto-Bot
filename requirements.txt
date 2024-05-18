@@ -1,0 +1,4 @@
+peewee~=3.17.3
+aiogram~=3
+opentele~=1.15.1
+Telethon~=1.26.1
